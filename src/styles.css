@@ -105,6 +105,16 @@ p {
   line-height: 30px;
 }
 
+.contact-box {
+  background-color: var(--secondary-color);
+  padding: 30px 120px 30px 5px;
+  border-radius: 10px;
+}
+
+.contact-links {
+  padding-left: 5px;
+}
+
 .content-container {
   padding: 160px 20px;
 }
